@@ -16,7 +16,7 @@ WORKDIR /app/Commerce4-Person
 
 RUN cd /app/Commerce4-Person
 
-RUN chmod -R 755 /app/*
+RUN chmod -R 777 /app/*
 
 RUN gradle build
 
