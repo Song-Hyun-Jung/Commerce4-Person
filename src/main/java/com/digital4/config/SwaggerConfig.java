@@ -29,7 +29,7 @@ public class SwaggerConfig {
 		return new ApiInfoBuilder()
 			.title("Commerce-hj-Person ver2-2")
 			.description("Version2-2")
-			.build();
+			.build(); 
 	    } 
 	
 	
